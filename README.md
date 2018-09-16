@@ -1,4 +1,6 @@
 # blender-paint-layers
+![Example Penguin](https://media.giphy.com/media/fnxW0SudmB4mPZApqG/giphy.gif)
+
 This addon creates a layering system for Blender's Texture Paint mode. Adding, removing, reordering, and any other operation
 upon these layers will update that material's node setup to reflect the changes you make in the layer panel of Texture Paint mode.
 <br/><br/>
