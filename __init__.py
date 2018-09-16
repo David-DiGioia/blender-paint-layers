@@ -1,6 +1,6 @@
 '''
-Copyright (C) 2018 YOUR NAME
-YOUR@MAIL.com
+Copyright (C) 2018 DAVID DIGIOIA
+DAVIDOFJOY@GMAIL.com
 
 Created by DAVID DIGIOIA
 
