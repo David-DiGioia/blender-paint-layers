@@ -23,4 +23,6 @@ likely break something if you try to use the layer gui afterwords.
     <li>Alpha inheritance</li>
     <li>Import/Export OpenRaster (.ora)</li>
     <li>Bake layers into single texture</li>
+    <li>Duplicate Layer</li>
+    <li>Adjustment Layers</li>
   </ul>
